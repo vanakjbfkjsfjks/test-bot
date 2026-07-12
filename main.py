@@ -5,7 +5,7 @@ from aiogram.filters import CommandStart
 from aiohttp import web
 
 # Твій токен
-TOKEN = "8996022290:AAEfKn0Tf3Qrqq0jbKd8KPizbPPeF2SfTAE"
+TOKEN = "8996022290:AAHN8UffPwXENDVbHEUrxOyJX_kUdC5v7F0"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
